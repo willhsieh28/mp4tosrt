@@ -1,0 +1,9 @@
+gradio
+faster-whisper
+torch
+pysrt
+requests
+deep-translator
+opencc-python-reimplemented
+yt-dlp
+
